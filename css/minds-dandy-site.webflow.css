@@ -5417,12 +5417,7 @@ a {
     margin-right: -40px;
   }
 
-  .paragraph-8 {
-    left: 712px;
-    top: 928px;
-    font-size: 20px;
-    font-weight: 700;
-  }
+ 
 
   .paragraph-9 {
     width: 800px;
@@ -6804,10 +6799,7 @@ a {
     border-bottom-right-radius: 2rem;
   }
 
-  .paragraph-8 {
-    left: 51px;
-    top: 366px;
-  }
+ 
 
   .paragraph-9 {
     left: 40px;
@@ -7693,3 +7685,13 @@ a {
   font-style: normal;
   font-display: auto;
 }
+.paragraph-8 {
+    left: 712px;
+    top: 500px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+ .paragraph-8 {
+    left: 61px;
+    top: 366px;
+  }
