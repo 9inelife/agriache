@@ -595,7 +595,6 @@ a {
 .grid-wrapper {
   position: relative;
   z-index: 10;
-  display:flex;
   display: -ms-grid;
   display: grid;
   width: 100%;
@@ -1934,10 +1933,6 @@ a {
   font-size: 16px;
   font-weight: 600;
   text-transform: uppercase;
-}
-
-.navbar{
- display: flex;
 }
 
 .body-2 {
@@ -5086,7 +5081,7 @@ a {
 
 .paragraph-8 {
   position: relative;
-  left:400px;
+  left: 243px;
   top: 459px;
   width: 500px;
   color: #fbfcfd;
@@ -5207,7 +5202,7 @@ a {
   }
 
   .paragraph-8 {
-    left: 50px;
+    left: 384px;
     top: 567px;
   }
 
@@ -6810,7 +6805,7 @@ a {
   }
 
   .paragraph-8 {
-    left: 301px;
+    left: 31px;
     top: 366px;
   }
 
