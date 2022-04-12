@@ -5082,7 +5082,7 @@ a {
 .paragraph-8 {
   position: relative;
   left: 243px;
-  top: 459px;
+  top: 10px;
   width: 500px;
   color: #fbfcfd;
   text-align: center;
@@ -5090,7 +5090,7 @@ a {
 
 .paragraph-9 {
   position: relative;
-  left: 207px;
+  left: 270px;
   top: 11px;
   width: 500px;
   margin-right: 4px;
@@ -6810,7 +6810,7 @@ a {
   }
 
   .paragraph-9 {
-    left: 31px;
+    left: 41px;
     top: 32px;
     width: 400px;
   }
